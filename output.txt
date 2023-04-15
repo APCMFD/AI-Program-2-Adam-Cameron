@@ -1,0 +1,13 @@
+
+Best fitness score from final generation: 19.5
+Activity: SLA100A   Rooom: Frank 119   Time: 12 PM   Facilitator: Zeldin
+Activity: SLA100B   Rooom: Loft 206   Time: 1 PM   Facilitator: Banks
+Activity: SLA191A   Rooom: Loft 310   Time: 11 AM   Facilitator: Zeldin
+Activity: SLA191B   Rooom: Frank 119   Time: 2 PM   Facilitator: Banks
+Activity: SLA201   Rooom: Loft 310   Time: 2 PM   Facilitator: Zeldin
+Activity: SLA291   Rooom: Frank 119   Time: 10 AM   Facilitator: Banks
+Activity: SLA303   Rooom: Frank 119   Time: 1 PM   Facilitator: Zeldin
+Activity: SLA304   Rooom: Slater 003   Time: 11 AM   Facilitator: Banks
+Activity: SLA394   Rooom: Slater 003   Time: 2 PM   Facilitator: Singer
+Activity: SLA449   Rooom: Loft 310   Time: 1 PM   Facilitator: Singer
+Activity: SLA451   Rooom: Loft 310   Time: 12 PM   Facilitator: Singer
